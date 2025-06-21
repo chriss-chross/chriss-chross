@@ -5,7 +5,7 @@
   
 > `* chris.`
 
-<i>semiverbal. ✧ monotone. ✧ adult. ✧ fictive.</i> 
+<i>semiverbal. ✧ monotone. ✧ seventeen. ✧ fictive.</i> 
 
 !!.. ` c + h . w2i ` ..!!
 
