@@ -1,16 +1,16 @@
-## Hi there 👋
+<img src="https://i.ibb.co/0x6JPyg/image-removebg-preview-8.png" alt="image-removebg-preview-8" border="0" />
 
-<!--
-**chriss-chross/chriss-chross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+𝄞 ⋆ˎˊ-  
+  
+> `* chris.`
 
-Here are some ideas to get you started:
+<i>semiverbal. ✧ monotone. ✧ adult. ✧ fictive.</i> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+!!.. ` c + h . w2i ` ..!!
+
+> <i>uh. hey guys it's me kris deltarune</i>
+
+~ ♬♪ ⊹ ᳅
+
+</p>
