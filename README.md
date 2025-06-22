@@ -14,3 +14,5 @@
 ~ ♬♪ ⊹ ᳅
 
 </p>
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=eggss)
