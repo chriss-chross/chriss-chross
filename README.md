@@ -15,4 +15,4 @@
 
 </p>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=eggss)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=eggss&count=1&show_user=header&header_style=compact_stats_only&footer_style=wave&bg_color=000000)
