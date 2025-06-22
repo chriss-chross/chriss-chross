@@ -15,4 +15,4 @@
 
 </p>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=scramby)
